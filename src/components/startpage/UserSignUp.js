@@ -6,7 +6,7 @@ export default function UserSignUp() {
     <SignUpWrapper>
       <form name="signUpForm">
         <label name="signUpForm" id="signUpUsername">
-          Choose a username
+          choose a username
         </label>
         <input
           name="signUpForm"
